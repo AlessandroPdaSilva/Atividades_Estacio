@@ -1,2 +1,2 @@
 # Atividades_Estacio
-Atividades de progamação em linguagem C++
+Atividades de progamação, feitos na faculdade
